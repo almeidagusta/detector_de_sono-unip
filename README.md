@@ -1,3 +1,3 @@
 # detector_de_sono-unip
 
-# Instele o CMAKE
+Antes de instalar as bibliotecas necessárias, instale o CMAKE.
